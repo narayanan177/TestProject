@@ -12,5 +12,8 @@ namespace TestApp
         {
             Console.WriteLine("Welcome to Test Project");
         }
+	static public Test(){
+		Console.WriteLine("Test");
+	}
     }
 }
