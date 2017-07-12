@@ -15,5 +15,11 @@ namespace TestApp
 	static public Test(){
 		Console.WriteLine("Test");
 	}
+static public Test1(){
+		Console.WriteLine("Test");
+	}
+static public Test2(){
+		Console.WriteLine("Test");
+	}
     }
 }
