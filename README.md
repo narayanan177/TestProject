@@ -1,2 +1,2 @@
 # TestProject
-Test Project for CI and CD
+Test Project for Continous Integration and Continous Deployment
