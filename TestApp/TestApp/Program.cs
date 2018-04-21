@@ -10,16 +10,8 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Test Project");
+            Console.WriteLine("Welcome to Test Project");  / TES-1
         }
-	static public Test(){
-		Console.WriteLine("Test");
-	}
-static public Test1(){
-		Console.WriteLine("Test");
-	}
-static public Test2(){
-		Console.WriteLine("Test");
-	}
+	
     }
 }
